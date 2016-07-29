@@ -1,0 +1,44 @@
+@import "bootstrap-sprockets";
+@import "bootstrap";
+
+
+body {
+  text-align: center;
+  background-color: #08073b;
+  color: #fff;
+}
+
+.input-group {
+  padding: 0px;
+  margin: 20px;
+  width: 40px;
+}
+
+#searching {
+  width: 175px;
+}
+
+#random {
+  margin-bottom: 10px;
+}
+
+.entry {
+  border: 5px solid #fff;
+  margin: 20px;
+  padding: 20px;
+}
+
+.links {
+  font-size: 30px;
+}
+
+#random {
+  color: black;
+}
+
+
+a {
+  color: orange;
+}
+
+
